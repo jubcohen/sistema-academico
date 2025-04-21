@@ -12,7 +12,7 @@ Criar um sistema simples de cadastro e matrícula de alunos, turmas e disciplina
 - Comunicação entre objetos (`Turma` contendo `Disciplina`, `Aluno`)
 - Representação UML de classes, sequência, caso de uso e objetos
 
-## 📁 Estrutura dos arquivos
+## Estrutura dos arquivos
 
 | Arquivo | Descrição |
 |--------|-----------|
