@@ -24,7 +24,7 @@ Criar um sistema simples de cadastro e matrícula de alunos, turmas e disciplina
 
 Uma das minhas descobertas nesse processo foi o uso de **expressões lambda em Java**, algo que inicialmente era novo para mim, mas se mostrou muito útil para simplificar ações de interface. Ao mesmo tempo, mantive uma versão **sem lambda**, para reforçar o meu entendimento.
 
-Outras descobertas foram as funcionalidades do swing. De início, não havia aprendido as funções, durante o processo fui pesquisando e implementando no código. 
+Outro ponto importante foi conhecer melhor o Swing. No começo, eu ainda não sabia os componentes e layouts, mas conforme fui pesquisando, implementei no sistema.
 
 ---
 
