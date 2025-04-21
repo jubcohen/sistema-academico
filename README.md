@@ -1,4 +1,4 @@
-# Sistema Acadêmico em Java com Interface Swing
+# (mini) Sistema Acadêmico em Java com Interface Swing
 
 Este repositório contém um projeto acadêmico desenvolvido como parte da disciplina **Projeto de Programas**, no curso de Engenharia da Computação da UEA.
 
